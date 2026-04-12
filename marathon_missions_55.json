@@ -1,0 +1,1875 @@
+[
+  {
+    "marathon_id": 55,
+    "date": "2026-04-15",
+    "mission_id": 31,
+    "mission_title": "Setoran ayat 2 ayat",
+    "completion_point": 10,
+    "requirement": {
+      "target": 2,
+      "point": 10,
+      "x": 2,
+      "pro": 1,
+      "from_index": "5673",
+      "to_index": "6236",
+      "sura_index": 114
+    },
+    "link": "push:/setorAyatHome:{\"index\":114}"
+  },
+  {
+    "marathon_id": 55,
+    "date": "2026-04-15",
+    "mission_id": 3,
+    "mission_title": "Mendapatkan bintang 5 saat murajaah sebanyak 2 kali",
+    "completion_point": 25,
+    "requirement": {
+      "target": 2,
+      "point": 25,
+      "x": 2,
+      "pro": 1
+    },
+    "link": "push:/murajaahHome"
+  },
+  {
+    "marathon_id": 55,
+    "date": "2026-04-15",
+    "mission_id": 44,
+    "mission_title": "Membaca surah Al-Alaq di Fitur Khatam Qur’an",
+    "completion_point": 100,
+    "requirement": {
+      "target": 96,
+      "point": 100,
+      "index": 96,
+      "pro": 0
+    },
+    "link": "push:/quran"
+  },
+  {
+    "marathon_id": 55,
+    "date": "2026-04-16",
+    "mission_id": 31,
+    "mission_title": "Setoran ayat 5 ayat",
+    "completion_point": 10,
+    "requirement": {
+      "target": 5,
+      "point": 10,
+      "x": 5,
+      "pro": 1,
+      "from_index": "5673",
+      "to_index": "6236",
+      "sura_index": 114
+    },
+    "link": "push:/setorAyatHome:{\"index\":114}"
+  },
+  {
+    "marathon_id": 55,
+    "date": "2026-04-16",
+    "mission_id": 37,
+    "mission_title": "Mencatat amalan hari ini",
+    "completion_point": 10,
+    "requirement": {
+      "target": 1,
+      "point": 10,
+      "pro": 0
+    },
+    "link": "push:/kalender"
+  },
+  {
+    "marathon_id": 55,
+    "date": "2026-04-16",
+    "mission_id": 30,
+    "mission_title": "Murajaah surah Al-Mulk",
+    "completion_point": 20,
+    "requirement": {
+      "target": 15,
+      "point": 20,
+      "fasih_id": 99999,
+      "pro": 1
+    },
+    "link": "push:/murajaahHome"
+  },
+  {
+    "marathon_id": 55,
+    "date": "2026-04-17",
+    "mission_id": 8,
+    "mission_title": "Bagikan pencapaian belajar 5 kali",
+    "completion_point": 5,
+    "requirement": {
+      "target": 5,
+      "point": 5,
+      "x": 5,
+      "pro": 1
+    },
+    "link": "push:/alurBelajar"
+  },
+  {
+    "marathon_id": 55,
+    "date": "2026-04-17",
+    "mission_id": 3,
+    "mission_title": "Mendapatkan bintang 5 saat murajaah sebanyak 10 kali",
+    "completion_point": 25,
+    "requirement": {
+      "target": 10,
+      "point": 25,
+      "x": 10,
+      "pro": 1
+    },
+    "link": "push:/murajaahHome"
+  },
+  {
+    "marathon_id": 55,
+    "date": "2026-04-17",
+    "mission_id": 36,
+    "mission_title": "Membaca dan menyelesaikan counter dzikir pagi",
+    "completion_point": 15,
+    "requirement": {
+      "target": 1,
+      "point": 15,
+      "dhikr": "morning",
+      "pro": 0
+    },
+    "link": "push:/zikir"
+  },
+  {
+    "marathon_id": 55,
+    "date": "2026-04-18",
+    "mission_id": 49,
+    "mission_title": "Menyelesaikan kuis spesial : Sebisaku",
+    "completion_point": 100,
+    "requirement": {
+      "target": 1,
+      "point": 100,
+      "pro": 1
+    },
+    "link": "push:/alurBelajar"
+  },
+  {
+    "marathon_id": 55,
+    "date": "2026-04-18",
+    "mission_id": 35,
+    "mission_title": "Menyelesaikan 5 materi di bab Tajwid",
+    "completion_point": 10,
+    "requirement": {
+      "x": 5,
+      "target": 5,
+      "point": 10,
+      "material_id": 73,
+      "pro": 1
+    },
+    "link": "push:/alurBelajar"
+  },
+  {
+    "marathon_id": 55,
+    "date": "2026-04-18",
+    "mission_id": 29,
+    "mission_title": "Mendapatkan bintang 3 atau lebih saat murajaah sebanyak 4 kali",
+    "completion_point": 15,
+    "requirement": {
+      "target": 4,
+      "point": 15,
+      "x": 4,
+      "pro": 1
+    },
+    "link": "push:/murajaahHome"
+  },
+  {
+    "marathon_id": 55,
+    "date": "2026-04-19",
+    "mission_id": 39,
+    "mission_title": "Mendengarkan murottal Ali-Imran",
+    "completion_point": 50,
+    "requirement": {
+      "target": 3,
+      "point": 50,
+      "index": 3,
+      "pro": 0
+    },
+    "link": "push:/quran"
+  },
+  {
+    "marathon_id": 55,
+    "date": "2026-04-19",
+    "mission_id": 16,
+    "mission_title": "Menyelesaikan 6 materi",
+    "completion_point": 10,
+    "requirement": {
+      "target": 6,
+      "point": 10,
+      "x": 6,
+      "pro": 1
+    },
+    "link": "push:/alurBelajar"
+  },
+  {
+    "marathon_id": 55,
+    "date": "2026-04-19",
+    "mission_id": 2,
+    "mission_title": "Murajaah 15 ayat",
+    "completion_point": 5,
+    "requirement": {
+      "target": 15,
+      "point": 5,
+      "x": 15,
+      "pro": 1
+    },
+    "link": "push:/murajaahHome"
+  },
+  {
+    "marathon_id": 55,
+    "date": "2026-04-20",
+    "mission_id": 31,
+    "mission_title": "Setoran ayat 2 ayat",
+    "completion_point": 10,
+    "requirement": {
+      "target": 2,
+      "point": 10,
+      "x": 2,
+      "pro": 1,
+      "from_index": "5673",
+      "to_index": "6236",
+      "sura_index": 114
+    },
+    "link": "push:/setorAyatHome:{\"index\":114}"
+  },
+  {
+    "marathon_id": 55,
+    "date": "2026-04-20",
+    "mission_id": 30,
+    "mission_title": "Murajaah surah Al-Lail",
+    "completion_point": 20,
+    "requirement": {
+      "target": 15,
+      "point": 20,
+      "fasih_id": 71,
+      "pro": 1
+    },
+    "link": "push:/murajaahHome"
+  },
+  {
+    "marathon_id": 55,
+    "date": "2026-04-20",
+    "mission_id": 37,
+    "mission_title": "Mencatat amalan hari ini",
+    "completion_point": 10,
+    "requirement": {
+      "target": 1,
+      "point": 10,
+      "pro": 0
+    },
+    "link": "push:/kalender"
+  },
+  {
+    "marathon_id": 55,
+    "date": "2026-04-20",
+    "mission_id": 38,
+    "mission_title": "Mendengarkan murottal di Qur’an sebanyak 2 surah",
+    "completion_point": 50,
+    "requirement": {
+      "target": 2,
+      "point": 50,
+      "x": 2,
+      "pro": 0
+    },
+    "link": "push:/quran"
+  },
+  {
+    "marathon_id": 55,
+    "date": "2026-04-21",
+    "mission_id": 40,
+    "mission_title": "Menabung di Fitur Kurban Sebisaku",
+    "completion_point": 100,
+    "requirement": {
+      "target": 1,
+      "point": 100,
+      "pro": 0
+    },
+    "link": "push:/kalender"
+  },
+  {
+    "marathon_id": 55,
+    "date": "2026-04-21",
+    "mission_id": 1,
+    "mission_title": "Murajaah 5 surah",
+    "completion_point": 20,
+    "requirement": {
+      "target": 5,
+      "point": 20,
+      "x": 5,
+      "pro": 1
+    },
+    "link": "push:/murajaahHome"
+  },
+  {
+    "marathon_id": 55,
+    "date": "2026-04-21",
+    "mission_id": 35,
+    "mission_title": "Menyelesaikan 6 materi di bab Tajwid",
+    "completion_point": 10,
+    "requirement": {
+      "x": 6,
+      "target": 6,
+      "point": 10,
+      "material_id": 73,
+      "pro": 1
+    },
+    "link": "push:/alurBelajar"
+  },
+  {
+    "marathon_id": 55,
+    "date": "2026-04-22",
+    "mission_id": 31,
+    "mission_title": "Setoran ayat 5 ayat",
+    "completion_point": 10,
+    "requirement": {
+      "target": 5,
+      "point": 10,
+      "x": 5,
+      "pro": 1,
+      "from_index": "5673",
+      "to_index": "6236",
+      "sura_index": 114
+    },
+    "link": "push:/setorAyatHome:{\"index\":114}"
+  },
+  {
+    "marathon_id": 55,
+    "date": "2026-04-22",
+    "mission_id": 8,
+    "mission_title": "Bagikan pencapaian belajar 3 kali",
+    "completion_point": 5,
+    "requirement": {
+      "target": 3,
+      "point": 5,
+      "x": 3,
+      "pro": 1
+    },
+    "link": "push:/alurBelajar"
+  },
+  {
+    "marathon_id": 55,
+    "date": "2026-04-22",
+    "mission_id": 38,
+    "mission_title": "Mendengarkan murottal di Qur’an sebanyak 2 surah",
+    "completion_point": 50,
+    "requirement": {
+      "target": 2,
+      "point": 50,
+      "x": 2,
+      "pro": 0
+    },
+    "link": "push:/quran"
+  },
+  {
+    "marathon_id": 55,
+    "date": "2026-04-23",
+    "mission_id": 37,
+    "mission_title": "Mencatat amalan hari ini",
+    "completion_point": 10,
+    "requirement": {
+      "target": 1,
+      "point": 10,
+      "pro": 0
+    },
+    "link": "push:/kalender"
+  },
+  {
+    "marathon_id": 55,
+    "date": "2026-04-23",
+    "mission_id": 36,
+    "mission_title": "Membaca dan menyelesaikan counter dzikir petang",
+    "completion_point": 15,
+    "requirement": {
+      "target": 1,
+      "point": 15,
+      "dhikr": "evening",
+      "pro": 0
+    },
+    "link": "push:/zikir"
+  },
+  {
+    "marathon_id": 55,
+    "date": "2026-04-23",
+    "mission_id": 3,
+    "mission_title": "Mendapatkan bintang 5 saat murajaah sebanyak 8 kali",
+    "completion_point": 25,
+    "requirement": {
+      "target": 8,
+      "point": 25,
+      "x": 8,
+      "pro": 1
+    },
+    "link": "push:/murajaahHome"
+  },
+  {
+    "marathon_id": 55,
+    "date": "2026-04-23",
+    "mission_id": 34,
+    "mission_title": "Mengulang 5 materi yang sudah dipelajari",
+    "completion_point": 5,
+    "requirement": {
+      "target": 5,
+      "point": 5,
+      "x": 5,
+      "pro": 1
+    },
+    "link": "push:/alurBelajar"
+  },
+  {
+    "marathon_id": 55,
+    "date": "2026-04-24",
+    "mission_id": 44,
+    "mission_title": "Membaca surah Al-Mulk di Fitur Khatam Qur’an",
+    "completion_point": 100,
+    "requirement": {
+      "target": 67,
+      "point": 100,
+      "index": 67,
+      "pro": 0
+    },
+    "link": "push:/quran"
+  },
+  {
+    "marathon_id": 55,
+    "date": "2026-04-24",
+    "mission_id": 37,
+    "mission_title": "Mencatat amalan hari ini",
+    "completion_point": 10,
+    "requirement": {
+      "target": 1,
+      "point": 10,
+      "pro": 0
+    },
+    "link": "push:/kalender"
+  },
+  {
+    "marathon_id": 55,
+    "date": "2026-04-24",
+    "mission_id": 1,
+    "mission_title": "Murajaah 7 surah",
+    "completion_point": 20,
+    "requirement": {
+      "target": 7,
+      "point": 20,
+      "x": 7,
+      "pro": 1
+    },
+    "link": "push:/murajaahHome"
+  },
+  {
+    "marathon_id": 55,
+    "date": "2026-04-25",
+    "mission_id": 49,
+    "mission_title": "Menyelesaikan kuis spesial : Sebisaku",
+    "completion_point": 100,
+    "requirement": {
+      "target": 1,
+      "point": 100,
+      "pro": 1
+    },
+    "link": "push:/alurBelajar"
+  },
+  {
+    "marathon_id": 55,
+    "date": "2026-04-25",
+    "mission_id": 16,
+    "mission_title": "Menyelesaikan 6 materi",
+    "completion_point": 10,
+    "requirement": {
+      "target": 6,
+      "point": 10,
+      "x": 6,
+      "pro": 1
+    },
+    "link": "push:/alurBelajar"
+  },
+  {
+    "marathon_id": 55,
+    "date": "2026-04-25",
+    "mission_id": 30,
+    "mission_title": "Murajaah surah Al-Ghasyiyah",
+    "completion_point": 20,
+    "requirement": {
+      "target": 15,
+      "point": 20,
+      "fasih_id": 75,
+      "pro": 1
+    },
+    "link": "push:/murajaahHome"
+  },
+  {
+    "marathon_id": 55,
+    "date": "2026-04-25",
+    "mission_id": 32,
+    "mission_title": "Dapatkan skor 70% dalam 5 latihan",
+    "completion_point": 15,
+    "requirement": {
+      "target": 5,
+      "point": 15,
+      "x": 70,
+      "exercise_count": 5,
+      "pro": 1
+    },
+    "link": "push:/alurBelajar"
+  },
+  {
+    "marathon_id": 55,
+    "date": "2026-04-26",
+    "mission_id": 34,
+    "mission_title": "Mengulang 10 materi yang sudah dipelajari",
+    "completion_point": 5,
+    "requirement": {
+      "target": 10,
+      "point": 5,
+      "x": 10,
+      "pro": 1
+    },
+    "link": "push:/alurBelajar"
+  },
+  {
+    "marathon_id": 55,
+    "date": "2026-04-26",
+    "mission_id": 44,
+    "mission_title": "Membaca surah Ad-Dukhan di Fitur Khatam Qur’an",
+    "completion_point": 100,
+    "requirement": {
+      "target": 44,
+      "point": 100,
+      "index": 44,
+      "pro": 0
+    },
+    "link": "push:/quran"
+  },
+  {
+    "marathon_id": 55,
+    "date": "2026-04-26",
+    "mission_id": 38,
+    "mission_title": "Mendengarkan murottal di Qur’an sebanyak 2 surah",
+    "completion_point": 50,
+    "requirement": {
+      "target": 2,
+      "point": 50,
+      "x": 2,
+      "pro": 0
+    },
+    "link": "push:/quran"
+  },
+  {
+    "marathon_id": 55,
+    "date": "2026-04-27",
+    "mission_id": 31,
+    "mission_title": "Setoran ayat 7 ayat",
+    "completion_point": 10,
+    "requirement": {
+      "target": 7,
+      "point": 10,
+      "x": 7,
+      "pro": 1,
+      "from_index": "5673",
+      "to_index": "6236",
+      "sura_index": 114
+    },
+    "link": "push:/setorAyatHome:{\"index\":114}"
+  },
+  {
+    "marathon_id": 55,
+    "date": "2026-04-27",
+    "mission_id": 37,
+    "mission_title": "Mencatat amalan hari ini",
+    "completion_point": 10,
+    "requirement": {
+      "target": 1,
+      "point": 10,
+      "pro": 0
+    },
+    "link": "push:/kalender"
+  },
+  {
+    "marathon_id": 55,
+    "date": "2026-04-27",
+    "mission_id": 36,
+    "mission_title": "Membaca dan menyelesaikan counter dzikir setelah shalat",
+    "completion_point": 15,
+    "requirement": {
+      "target": 1,
+      "point": 15,
+      "dhikr": "after_prayer",
+      "pro": 0
+    },
+    "link": "push:/zikir"
+  },
+  {
+    "marathon_id": 55,
+    "date": "2026-04-27",
+    "mission_id": 32,
+    "mission_title": "Dapatkan skor 80% dalam 5 latihan",
+    "completion_point": 15,
+    "requirement": {
+      "target": 5,
+      "point": 15,
+      "x": 80,
+      "exercise_count": 5,
+      "pro": 1
+    },
+    "link": "push:/alurBelajar"
+  },
+  {
+    "marathon_id": 55,
+    "date": "2026-04-28",
+    "mission_id": 40,
+    "mission_title": "Menabung di Fitur Kurban Sebisaku",
+    "completion_point": 100,
+    "requirement": {
+      "target": 1,
+      "point": 100,
+      "pro": 0
+    },
+    "link": "push:/kalender"
+  },
+  {
+    "marathon_id": 55,
+    "date": "2026-04-28",
+    "mission_id": 1,
+    "mission_title": "Murajaah 5 surah",
+    "completion_point": 20,
+    "requirement": {
+      "target": 5,
+      "point": 20,
+      "x": 5,
+      "pro": 1
+    },
+    "link": "push:/murajaahHome"
+  },
+  {
+    "marathon_id": 55,
+    "date": "2026-04-28",
+    "mission_id": 33,
+    "mission_title": "Kerjakan ujian bab Tajwid",
+    "completion_point": 50,
+    "requirement": {
+      "target": 1,
+      "point": 50,
+      "exam_id": 29,
+      "material_id": 73,
+      "pro": 1
+    },
+    "link": "push:/alurBelajar"
+  },
+  {
+    "marathon_id": 55,
+    "date": "2026-04-28",
+    "mission_id": 37,
+    "mission_title": "Mencatat amalan hari ini",
+    "completion_point": 10,
+    "requirement": {
+      "target": 1,
+      "point": 10,
+      "pro": 0
+    },
+    "link": "push:/kalender"
+  },
+  {
+    "marathon_id": 55,
+    "date": "2026-04-29",
+    "mission_id": 8,
+    "mission_title": "Bagikan pencapaian belajar 2 kali",
+    "completion_point": 5,
+    "requirement": {
+      "target": 2,
+      "point": 5,
+      "x": 2,
+      "pro": 1
+    },
+    "link": "push:/alurBelajar"
+  },
+  {
+    "marathon_id": 55,
+    "date": "2026-04-29",
+    "mission_id": 30,
+    "mission_title": "Murajaah surah Al-Infitar",
+    "completion_point": 20,
+    "requirement": {
+      "target": 15,
+      "point": 20,
+      "fasih_id": 81,
+      "pro": 1
+    },
+    "link": "push:/murajaahHome"
+  },
+  {
+    "marathon_id": 55,
+    "date": "2026-04-29",
+    "mission_id": 35,
+    "mission_title": "Menyelesaikan 8 materi di bab Tajwid",
+    "completion_point": 10,
+    "requirement": {
+      "x": 8,
+      "target": 8,
+      "point": 10,
+      "material_id": 73,
+      "pro": 1
+    },
+    "link": "push:/alurBelajar"
+  },
+  {
+    "marathon_id": 55,
+    "date": "2026-04-29",
+    "mission_id": 38,
+    "mission_title": "Mendengarkan murottal di Qur’an sebanyak 3 surah",
+    "completion_point": 50,
+    "requirement": {
+      "target": 3,
+      "point": 50,
+      "x": 3,
+      "pro": 0
+    },
+    "link": "push:/quran"
+  },
+  {
+    "marathon_id": 55,
+    "date": "2026-04-30",
+    "mission_id": 39,
+    "mission_title": "Mendengarkan murottal surah Al-Kahf",
+    "completion_point": 50,
+    "requirement": {
+      "target": 18,
+      "point": 50,
+      "index": 18,
+      "pro": 0
+    },
+    "link": "push:/quran"
+  },
+  {
+    "marathon_id": 55,
+    "date": "2026-04-30",
+    "mission_id": 37,
+    "mission_title": "Mencatat amalan hari ini",
+    "completion_point": 10,
+    "requirement": {
+      "target": 1,
+      "point": 10,
+      "pro": 0
+    },
+    "link": "push:/kalender"
+  },
+  {
+    "marathon_id": 55,
+    "date": "2026-04-30",
+    "mission_id": 1,
+    "mission_title": "Murajaah 3 surah",
+    "completion_point": 20,
+    "requirement": {
+      "target": 3,
+      "point": 20,
+      "x": 3,
+      "pro": 1
+    },
+    "link": "push:/murajaahHome"
+  },
+  {
+    "marathon_id": 55,
+    "date": "2026-04-30",
+    "mission_id": 31,
+    "mission_title": "Setoran ayat 3 ayat",
+    "completion_point": 10,
+    "requirement": {
+      "target": 3,
+      "point": 10,
+      "x": 3,
+      "pro": 1,
+      "from_index": "5673",
+      "to_index": "6236",
+      "sura_index": 114
+    },
+    "link": "push:/setorAyatHome:{\"index\":114}"
+  },
+  {
+    "marathon_id": 55,
+    "date": "2026-05-01",
+    "mission_id": 3,
+    "mission_title": "Mendapatkan bintang 5 saat murajaah sebanyak 6 kali",
+    "completion_point": 25,
+    "requirement": {
+      "target": 6,
+      "point": 25,
+      "x": 6,
+      "pro": 1
+    },
+    "link": "push:/murajaahHome"
+  },
+  {
+    "marathon_id": 55,
+    "date": "2026-05-01",
+    "mission_id": 35,
+    "mission_title": "Menyelesaikan 5 materi di bab Hijaiyah",
+    "completion_point": 10,
+    "requirement": {
+      "x": 5,
+      "target": 5,
+      "point": 10,
+      "material_id": 1,
+      "pro": 1
+    },
+    "link": "push:/alurBelajar"
+  },
+  {
+    "marathon_id": 55,
+    "date": "2026-05-01",
+    "mission_id": 39,
+    "mission_title": "Mendengarkan murottal surah Al-Mulk",
+    "completion_point": 50,
+    "requirement": {
+      "target": 67,
+      "point": 50,
+      "index": 67,
+      "pro": 0
+    },
+    "link": "push:/quran"
+  },
+  {
+    "marathon_id": 55,
+    "date": "2026-05-02",
+    "mission_id": 37,
+    "mission_title": "Mencatat amalan hari ini",
+    "completion_point": 10,
+    "requirement": {
+      "target": 1,
+      "point": 10,
+      "pro": 0
+    },
+    "link": "push:/kalender"
+  },
+  {
+    "marathon_id": 55,
+    "date": "2026-05-02",
+    "mission_id": 1,
+    "mission_title": "Murajaah 3 surah",
+    "completion_point": 20,
+    "requirement": {
+      "target": 3,
+      "point": 20,
+      "x": 3,
+      "pro": 1
+    },
+    "link": "push:/murajaahHome"
+  },
+  {
+    "marathon_id": 55,
+    "date": "2026-05-02",
+    "mission_id": 32,
+    "mission_title": "Dapatkan skor 75% dalam 3 latihan",
+    "completion_point": 15,
+    "requirement": {
+      "target": 3,
+      "point": 15,
+      "x": 75,
+      "exercise_count": 3,
+      "pro": 1
+    },
+    "link": "push:/alurBelajar"
+  },
+  {
+    "marathon_id": 55,
+    "date": "2026-05-03",
+    "mission_id": 8,
+    "mission_title": "Bagikan pencapaian belajar 2 kali",
+    "completion_point": 5,
+    "requirement": {
+      "target": 2,
+      "point": 5,
+      "x": 2,
+      "pro": 1
+    },
+    "link": "push:/alurBelajar"
+  },
+  {
+    "marathon_id": 55,
+    "date": "2026-05-03",
+    "mission_id": 44,
+    "mission_title": "Membaca surah An-Naba di Fitur Khatam Qur’an",
+    "completion_point": 100,
+    "requirement": {
+      "target": 78,
+      "point": 100,
+      "index": 78,
+      "pro": 0
+    },
+    "link": "push:/quran"
+  },
+  {
+    "marathon_id": 55,
+    "date": "2026-05-03",
+    "mission_id": 30,
+    "mission_title": "Murajaah surah Al-Jinn",
+    "completion_point": 20,
+    "requirement": {
+      "target": 15,
+      "point": 20,
+      "fasih_id": 100004,
+      "pro": 1
+    },
+    "link": "push:/murajaahHome"
+  },
+  {
+    "marathon_id": 55,
+    "date": "2026-05-03",
+    "mission_id": 40,
+    "mission_title": "Menabung di Fitur Kurban Sebisaku",
+    "completion_point": 100,
+    "requirement": {
+      "target": 1,
+      "point": 100,
+      "pro": 0
+    },
+    "link": "push:/kalender"
+  },
+  {
+    "marathon_id": 55,
+    "date": "2026-05-04",
+    "mission_id": 35,
+    "mission_title": "Menyelesaikan 5 materi di Bab Tajwid",
+    "completion_point": 10,
+    "requirement": {
+      "x": 5,
+      "target": 5,
+      "point": 10,
+      "material_id": 73,
+      "pro": 1
+    },
+    "link": "push:/alurBelajar"
+  },
+  {
+    "marathon_id": 55,
+    "date": "2026-05-04",
+    "mission_id": 32,
+    "mission_title": "Dapatkan skor 80% dalam 2 latihan",
+    "completion_point": 15,
+    "requirement": {
+      "target": 2,
+      "point": 15,
+      "x": 80,
+      "exercise_count": 2,
+      "pro": 1
+    },
+    "link": "push:/alurBelajar"
+  },
+  {
+    "marathon_id": 55,
+    "date": "2026-05-04",
+    "mission_id": 31,
+    "mission_title": "Setoran ayat 5 ayat",
+    "completion_point": 10,
+    "requirement": {
+      "target": 5,
+      "point": 10,
+      "x": 5,
+      "pro": 1,
+      "from_index": "5673",
+      "to_index": "6236",
+      "sura_index": 114
+    },
+    "link": "push:/setorAyatHome:{\"index\":114}"
+  },
+  {
+    "marathon_id": 55,
+    "date": "2026-05-05",
+    "mission_id": 1,
+    "mission_title": "Murajaah 2 surah",
+    "completion_point": 20,
+    "requirement": {
+      "target": 2,
+      "point": 20,
+      "x": 2,
+      "pro": 1
+    },
+    "link": "push:/murajaahHome"
+  },
+  {
+    "marathon_id": 55,
+    "date": "2026-05-05",
+    "mission_id": 16,
+    "mission_title": "Menyelesaikan 5 materi",
+    "completion_point": 10,
+    "requirement": {
+      "target": 5,
+      "point": 10,
+      "x": 5,
+      "pro": 1
+    },
+    "link": "push:/alurBelajar"
+  },
+  {
+    "marathon_id": 55,
+    "date": "2026-05-05",
+    "mission_id": 36,
+    "mission_title": "Membaca dan menyelesaikan counter dzikir petang",
+    "completion_point": 15,
+    "requirement": {
+      "target": 1,
+      "point": 15,
+      "dhikr": "evening",
+      "pro": 0
+    },
+    "link": "push:/zikir"
+  },
+  {
+    "marathon_id": 55,
+    "date": "2026-05-06",
+    "mission_id": 31,
+    "mission_title": "Setoran ayat 5 ayat",
+    "completion_point": 10,
+    "requirement": {
+      "target": 5,
+      "point": 10,
+      "x": 5,
+      "pro": 1,
+      "from_index": "5673",
+      "to_index": "6236",
+      "sura_index": 114
+    },
+    "link": "push:/setorAyatHome:{\"index\":114}"
+  },
+  {
+    "marathon_id": 55,
+    "date": "2026-05-06",
+    "mission_id": 38,
+    "mission_title": "Mendengarkan murottal di Qur’an sebanyak 2 surah",
+    "completion_point": 50,
+    "requirement": {
+      "target": 2,
+      "point": 50,
+      "x": 2,
+      "pro": 0
+    },
+    "link": "push:/quran"
+  },
+  {
+    "marathon_id": 55,
+    "date": "2026-05-06",
+    "mission_id": 32,
+    "mission_title": "Dapatkan skor 80% dalam 3 latihan",
+    "completion_point": 15,
+    "requirement": {
+      "target": 3,
+      "point": 15,
+      "x": 80,
+      "exercise_count": 3,
+      "pro": 1
+    },
+    "link": "push:/alurBelajar"
+  },
+  {
+    "marathon_id": 55,
+    "date": "2026-05-07",
+    "mission_id": 29,
+    "mission_title": "Mendapatkan bintang 3 atau lebih saat murajaah sebanyak 5 kali",
+    "completion_point": 15,
+    "requirement": {
+      "target": 5,
+      "point": 15,
+      "x": 5,
+      "pro": 1
+    },
+    "link": "push:/murajaahHome"
+  },
+  {
+    "marathon_id": 55,
+    "date": "2026-05-07",
+    "mission_id": 37,
+    "mission_title": "Mencatat amalan hari ini",
+    "completion_point": 10,
+    "requirement": {
+      "target": 1,
+      "point": 10,
+      "pro": 0
+    },
+    "link": "push:/kalender"
+  },
+  {
+    "marathon_id": 55,
+    "date": "2026-05-07",
+    "mission_id": 2,
+    "mission_title": "Murajaah 7 ayat",
+    "completion_point": 5,
+    "requirement": {
+      "target": 7,
+      "point": 5,
+      "x": 7,
+      "pro": 1
+    },
+    "link": "push:/murajaahHome"
+  },
+  {
+    "marathon_id": 55,
+    "date": "2026-05-07",
+    "mission_id": 33,
+    "mission_title": "Kerjakan ujian bab Tajwid",
+    "completion_point": 50,
+    "requirement": {
+      "target": 1,
+      "point": 50,
+      "exam_id": 29,
+      "material_id": 73,
+      "pro": 1
+    },
+    "link": "push:/alurBelajar"
+  },
+  {
+    "marathon_id": 55,
+    "date": "2026-05-08",
+    "mission_id": 49,
+    "mission_title": "Menyelesaikan kuis spesial : Sebisaku",
+    "completion_point": 100,
+    "requirement": {
+      "target": 1,
+      "point": 100,
+      "pro": 1
+    },
+    "link": "push:/alurBelajar"
+  },
+  {
+    "marathon_id": 55,
+    "date": "2026-05-08",
+    "mission_id": 34,
+    "mission_title": "Mengulang 3 materi yang sudah dipelajari",
+    "completion_point": 5,
+    "requirement": {
+      "target": 3,
+      "point": 5,
+      "x": 3,
+      "pro": 1
+    },
+    "link": "push:/alurBelajar"
+  },
+  {
+    "marathon_id": 55,
+    "date": "2026-05-08",
+    "mission_id": 8,
+    "mission_title": "Bagikan pencapaian belajar 2 kali",
+    "completion_point": 5,
+    "requirement": {
+      "target": 2,
+      "point": 5,
+      "x": 2,
+      "pro": 1
+    },
+    "link": "push:/alurBelajar"
+  },
+  {
+    "marathon_id": 55,
+    "date": "2026-05-08",
+    "mission_id": 37,
+    "mission_title": "Mencatat amalan hari ini",
+    "completion_point": 10,
+    "requirement": {
+      "target": 1,
+      "point": 10,
+      "pro": 0
+    },
+    "link": "push:/kalender"
+  },
+  {
+    "marathon_id": 55,
+    "date": "2026-05-09",
+    "mission_id": 30,
+    "mission_title": "Murajaah surah Al-Lahab",
+    "completion_point": 20,
+    "requirement": {
+      "target": 15,
+      "point": 20,
+      "fasih_id": 51,
+      "pro": 1
+    },
+    "link": "push:/murajaahHome"
+  },
+  {
+    "marathon_id": 55,
+    "date": "2026-05-09",
+    "mission_id": 35,
+    "mission_title": "Menyelesaikan 3 materi di bab Hijaiyah",
+    "completion_point": 10,
+    "requirement": {
+      "x": 3,
+      "target": 3,
+      "point": 10,
+      "material_id": 1,
+      "pro": 1
+    },
+    "link": "push:/alurBelajar"
+  },
+  {
+    "marathon_id": 55,
+    "date": "2026-05-09",
+    "mission_id": 39,
+    "mission_title": "Mendengarkan murottal Ar-Rahman",
+    "completion_point": 50,
+    "requirement": {
+      "target": 55,
+      "point": 50,
+      "index": 55,
+      "pro": 0
+    },
+    "link": "push:/quran"
+  },
+  {
+    "marathon_id": 55,
+    "date": "2026-05-09",
+    "mission_id": 2,
+    "mission_title": "Murajaah 10 ayat",
+    "completion_point": 5,
+    "requirement": {
+      "target": 10,
+      "point": 5,
+      "x": 10,
+      "pro": 1
+    },
+    "link": "push:/murajaahHome"
+  },
+  {
+    "marathon_id": 55,
+    "date": "2026-05-10",
+    "mission_id": 35,
+    "mission_title": "Menyelesaikan 5 materi di Bab Tajwid",
+    "completion_point": 10,
+    "requirement": {
+      "x": 5,
+      "target": 5,
+      "point": 10,
+      "material_id": 73,
+      "pro": 1
+    },
+    "link": "push:/alurBelajar"
+  },
+  {
+    "marathon_id": 55,
+    "date": "2026-05-10",
+    "mission_id": 44,
+    "mission_title": "Membaca surah An-Nazi'at di Fitur Khatam Qur’an",
+    "completion_point": 100,
+    "requirement": {
+      "target": 79,
+      "point": 100,
+      "index": 79,
+      "pro": 0
+    },
+    "link": "push:/quran"
+  },
+  {
+    "marathon_id": 55,
+    "date": "2026-05-10",
+    "mission_id": 40,
+    "mission_title": "Menabung di Fitur Kurban Sebisaku",
+    "completion_point": 100,
+    "requirement": {
+      "target": 1,
+      "point": 100,
+      "pro": 0
+    },
+    "link": "push:/kalender"
+  },
+  {
+    "marathon_id": 55,
+    "date": "2026-05-11",
+    "mission_id": 37,
+    "mission_title": "Mencatat amalan hari ini",
+    "completion_point": 10,
+    "requirement": {
+      "target": 1,
+      "point": 10,
+      "pro": 0
+    },
+    "link": "push:/kalender"
+  },
+  {
+    "marathon_id": 55,
+    "date": "2026-05-11",
+    "mission_id": 39,
+    "mission_title": "Mendengarkan murottal Al-Baqarah",
+    "completion_point": 50,
+    "requirement": {
+      "target": 2,
+      "point": 50,
+      "index": 2,
+      "pro": 0
+    },
+    "link": "push:/quran"
+  },
+  {
+    "marathon_id": 55,
+    "date": "2026-05-11",
+    "mission_id": 36,
+    "mission_title": "Membaca dan menyelesaikan counter dzikir setelah shalat",
+    "completion_point": 15,
+    "requirement": {
+      "target": 1,
+      "point": 15,
+      "dhikr": "after_prayer",
+      "pro": 0
+    },
+    "link": "push:/zikir"
+  },
+  {
+    "marathon_id": 55,
+    "date": "2026-05-12",
+    "mission_id": 3,
+    "mission_title": "Mendapatkan bintang 5 saat murajaah sebanyak 2 kali",
+    "completion_point": 25,
+    "requirement": {
+      "target": 2,
+      "point": 25,
+      "x": 2,
+      "pro": 1
+    },
+    "link": "push:/murajaahHome"
+  },
+  {
+    "marathon_id": 55,
+    "date": "2026-05-12",
+    "mission_id": 44,
+    "mission_title": "Membaca surah Al-Alaq di Fitur Khatam Qur’an",
+    "completion_point": 100,
+    "requirement": {
+      "target": 96,
+      "point": 100,
+      "index": 96,
+      "pro": 0
+    },
+    "link": "push:/quran"
+  },
+  {
+    "marathon_id": 55,
+    "date": "2026-05-12",
+    "mission_id": 31,
+    "mission_title": "Setoran ayat 3 ayat",
+    "completion_point": 10,
+    "requirement": {
+      "target": 3,
+      "point": 10,
+      "x": 3,
+      "pro": 1,
+      "from_index": "5673",
+      "to_index": "6236",
+      "sura_index": 114
+    },
+    "link": "push:/setorAyatHome:{\"index\":114}"
+  },
+  {
+    "marathon_id": 55,
+    "date": "2026-05-13",
+    "mission_id": 37,
+    "mission_title": "Mencatat amalan hari ini",
+    "completion_point": 10,
+    "requirement": {
+      "target": 1,
+      "point": 10,
+      "pro": 0
+    },
+    "link": "push:/kalender"
+  },
+  {
+    "marathon_id": 55,
+    "date": "2026-05-13",
+    "mission_id": 30,
+    "mission_title": "Murajaah surah At-Takwir",
+    "completion_point": 20,
+    "requirement": {
+      "target": 15,
+      "point": 20,
+      "fasih_id": 82,
+      "pro": 1
+    },
+    "link": "push:/murajaahHome"
+  },
+  {
+    "marathon_id": 55,
+    "date": "2026-05-13",
+    "mission_id": 8,
+    "mission_title": "Bagikan pencapaian belajar 5 kali",
+    "completion_point": 5,
+    "requirement": {
+      "target": 5,
+      "point": 5,
+      "x": 5,
+      "pro": 1
+    },
+    "link": "push:/alurBelajar"
+  },
+  {
+    "marathon_id": 55,
+    "date": "2026-05-14",
+    "mission_id": 3,
+    "mission_title": "Mendapatkan bintang 5 saat murajaah sebanyak 6 kali",
+    "completion_point": 25,
+    "requirement": {
+      "target": 6,
+      "point": 25,
+      "x": 6,
+      "pro": 1
+    },
+    "link": "push:/murajaahHome"
+  },
+  {
+    "marathon_id": 55,
+    "date": "2026-05-14",
+    "mission_id": 36,
+    "mission_title": "Membaca dan menyelesaikan counter dzikir pagi",
+    "completion_point": 15,
+    "requirement": {
+      "target": 1,
+      "point": 15,
+      "dhikr": "morning",
+      "pro": 0
+    },
+    "link": "push:/zikir"
+  },
+  {
+    "marathon_id": 55,
+    "date": "2026-05-14",
+    "mission_id": 49,
+    "mission_title": "Menyelesaikan kuis spesial : Sebisaku",
+    "completion_point": 100,
+    "requirement": {
+      "target": 1,
+      "point": 100,
+      "pro": 1
+    },
+    "link": "push:/alurBelajar"
+  },
+  {
+    "marathon_id": 55,
+    "date": "2026-05-15",
+    "mission_id": 35,
+    "mission_title": "Menyelesaikan 3 materi di bab Tahsin",
+    "completion_point": 10,
+    "requirement": {
+      "x": 3,
+      "target": 3,
+      "point": 10,
+      "material_id": 42,
+      "pro": 1
+    },
+    "link": "push:/alurBelajar"
+  },
+  {
+    "marathon_id": 55,
+    "date": "2026-05-15",
+    "mission_id": 29,
+    "mission_title": "Mendapatkan bintang 3 atau lebih saat murajaah sebanyak 10 kali",
+    "completion_point": 15,
+    "requirement": {
+      "target": 10,
+      "point": 15,
+      "x": 10,
+      "pro": 1
+    },
+    "link": "push:/murajaahHome"
+  },
+  {
+    "marathon_id": 55,
+    "date": "2026-05-15",
+    "mission_id": 39,
+    "mission_title": "Mendengarkan murottal Ali-Imran",
+    "completion_point": 50,
+    "requirement": {
+      "target": 3,
+      "point": 50,
+      "index": 3,
+      "pro": 0
+    },
+    "link": "push:/quran"
+  },
+  {
+    "marathon_id": 55,
+    "date": "2026-05-16",
+    "mission_id": 16,
+    "mission_title": "Menyelesaikan 10 materi",
+    "completion_point": 10,
+    "requirement": {
+      "target": 10,
+      "point": 10,
+      "x": 10,
+      "pro": 1
+    },
+    "link": "push:/alurBelajar"
+  },
+  {
+    "marathon_id": 55,
+    "date": "2026-05-16",
+    "mission_id": 2,
+    "mission_title": "Murajaah 15 ayat",
+    "completion_point": 5,
+    "requirement": {
+      "target": 15,
+      "point": 5,
+      "x": 15,
+      "pro": 1
+    },
+    "link": "push:/murajaahHome"
+  },
+  {
+    "marathon_id": 55,
+    "date": "2026-05-16",
+    "mission_id": 39,
+    "mission_title": "Mendengarkan murottal Al-Waqi'ah",
+    "completion_point": 50,
+    "requirement": {
+      "target": 56,
+      "point": 50,
+      "index": 56,
+      "pro": 0
+    },
+    "link": "push:/quran"
+  },
+  {
+    "marathon_id": 55,
+    "date": "2026-05-17",
+    "mission_id": 30,
+    "mission_title": "Murajaah surah Al-Fajr",
+    "completion_point": 20,
+    "requirement": {
+      "target": 15,
+      "point": 20,
+      "fasih_id": 74,
+      "pro": 1
+    },
+    "link": "push:/murajaahHome"
+  },
+  {
+    "marathon_id": 55,
+    "date": "2026-05-17",
+    "mission_id": 37,
+    "mission_title": "Mencatat amalan hari ini",
+    "completion_point": 10,
+    "requirement": {
+      "target": 1,
+      "point": 10,
+      "pro": 0
+    },
+    "link": "push:/kalender"
+  },
+  {
+    "marathon_id": 55,
+    "date": "2026-05-17",
+    "mission_id": 38,
+    "mission_title": "Mendengarkan murottal di Qur’an sebanyak 2 surah",
+    "completion_point": 50,
+    "requirement": {
+      "target": 2,
+      "point": 50,
+      "x": 2,
+      "pro": 0
+    },
+    "link": "push:/quran"
+  },
+  {
+    "marathon_id": 55,
+    "date": "2026-05-17",
+    "mission_id": 40,
+    "mission_title": "Menabung di Fitur Kurban Sebisaku",
+    "completion_point": 100,
+    "requirement": {
+      "target": 1,
+      "point": 100,
+      "pro": 0
+    },
+    "link": "push:/kalender"
+  },
+  {
+    "marathon_id": 55,
+    "date": "2026-05-18",
+    "mission_id": 38,
+    "mission_title": "Mendengarkan murottal di Qur’an sebanyak 2 surah",
+    "completion_point": 50,
+    "requirement": {
+      "target": 2,
+      "point": 50,
+      "x": 2,
+      "pro": 0
+    },
+    "link": "push:/quran"
+  },
+  {
+    "marathon_id": 55,
+    "date": "2026-05-18",
+    "mission_id": 35,
+    "mission_title": "Menyelesaikan 6 materi di bab Hijaiyah",
+    "completion_point": 10,
+    "requirement": {
+      "x": 6,
+      "target": 6,
+      "point": 10,
+      "material_id": 1,
+      "pro": 1
+    },
+    "link": "push:/alurBelajar"
+  },
+  {
+    "marathon_id": 55,
+    "date": "2026-05-18",
+    "mission_id": 3,
+    "mission_title": "Mendapatkan bintang 5 saat murajaah sebanyak 8 kali",
+    "completion_point": 25,
+    "requirement": {
+      "target": 8,
+      "point": 25,
+      "x": 8,
+      "pro": 1
+    },
+    "link": "push:/murajaahHome"
+  },
+  {
+    "marathon_id": 55,
+    "date": "2026-05-19",
+    "mission_id": 8,
+    "mission_title": "Bagikan pencapaian belajar 3 kali",
+    "completion_point": 5,
+    "requirement": {
+      "target": 3,
+      "point": 5,
+      "x": 3,
+      "pro": 1
+    },
+    "link": "push:/alurBelajar"
+  },
+  {
+    "marathon_id": 55,
+    "date": "2026-05-19",
+    "mission_id": 38,
+    "mission_title": "Mendengarkan murottal di Qur’an sebanyak 2 surah",
+    "completion_point": 50,
+    "requirement": {
+      "target": 2,
+      "point": 50,
+      "x": 2,
+      "pro": 0
+    },
+    "link": "push:/quran"
+  },
+  {
+    "marathon_id": 55,
+    "date": "2026-05-19",
+    "mission_id": 37,
+    "mission_title": "Mencatat amalan hari ini",
+    "completion_point": 10,
+    "requirement": {
+      "target": 1,
+      "point": 10,
+      "pro": 0
+    },
+    "link": "push:/kalender"
+  },
+  {
+    "marathon_id": 55,
+    "date": "2026-05-19",
+    "mission_id": 31,
+    "mission_title": "Setoran ayat 3 ayat",
+    "completion_point": 10,
+    "requirement": {
+      "target": 3,
+      "point": 10,
+      "x": 3,
+      "pro": 1,
+      "from_index": "5673",
+      "to_index": "6236",
+      "sura_index": 114
+    },
+    "link": "push:/setorAyatHome:{\"index\":114}"
+  },
+  {
+    "marathon_id": 55,
+    "date": "2026-05-20",
+    "mission_id": 36,
+    "mission_title": "Membaca dan menyelesaikan counter dzikir petang",
+    "completion_point": 15,
+    "requirement": {
+      "target": 1,
+      "point": 15,
+      "dhikr": "evening",
+      "pro": 0
+    },
+    "link": "push:/zikir"
+  },
+  {
+    "marathon_id": 55,
+    "date": "2026-05-20",
+    "mission_id": 3,
+    "mission_title": "Mendapatkan bintang 5 saat murajaah sebanyak 8 kali",
+    "completion_point": 25,
+    "requirement": {
+      "target": 8,
+      "point": 25,
+      "x": 8,
+      "pro": 1
+    },
+    "link": "push:/murajaahHome"
+  },
+  {
+    "marathon_id": 55,
+    "date": "2026-05-20",
+    "mission_id": 34,
+    "mission_title": "Mengulang 5 materi yang sudah dipelajari",
+    "completion_point": 5,
+    "requirement": {
+      "target": 5,
+      "point": 5,
+      "x": 5,
+      "pro": 1
+    },
+    "link": "push:/alurBelajar"
+  },
+  {
+    "marathon_id": 55,
+    "date": "2026-05-20",
+    "mission_id": 44,
+    "mission_title": "Membaca surah Al-'Alaq di Fitur Khatam Qur’an",
+    "completion_point": 100,
+    "requirement": {
+      "target": 96,
+      "point": 100,
+      "index": 96,
+      "pro": 0
+    },
+    "link": "push:/quran"
+  },
+  {
+    "marathon_id": 55,
+    "date": "2026-05-21",
+    "mission_id": 37,
+    "mission_title": "Mencatat amalan hari ini",
+    "completion_point": 10,
+    "requirement": {
+      "target": 1,
+      "point": 10,
+      "pro": 0
+    },
+    "link": "push:/kalender"
+  },
+  {
+    "marathon_id": 55,
+    "date": "2026-05-21",
+    "mission_id": 1,
+    "mission_title": "Murajaah 5 surah",
+    "completion_point": 20,
+    "requirement": {
+      "target": 5,
+      "point": 20,
+      "x": 5,
+      "pro": 1
+    },
+    "link": "push:/murajaahHome"
+  },
+  {
+    "marathon_id": 55,
+    "date": "2026-05-21",
+    "mission_id": 31,
+    "mission_title": "Setoran ayat 3 ayat",
+    "completion_point": 10,
+    "requirement": {
+      "target": 3,
+      "point": 10,
+      "x": 3,
+      "pro": 1,
+      "from_index": "5673",
+      "to_index": "6236",
+      "sura_index": 114
+    },
+    "link": "push:/setorAyatHome:{\"index\":114}"
+  },
+  {
+    "marathon_id": 55,
+    "date": "2026-05-22",
+    "mission_id": 16,
+    "mission_title": "Menyelesaikan 6 materi",
+    "completion_point": 10,
+    "requirement": {
+      "target": 6,
+      "point": 10,
+      "x": 6,
+      "pro": 1
+    },
+    "link": "push:/alurBelajar"
+  },
+  {
+    "marathon_id": 55,
+    "date": "2026-05-22",
+    "mission_id": 30,
+    "mission_title": "Murajaah surah Al-Fatihah",
+    "completion_point": 20,
+    "requirement": {
+      "target": 15,
+      "point": 20,
+      "fasih_id": 47,
+      "pro": 1
+    },
+    "link": "push:/murajaahHome"
+  },
+  {
+    "marathon_id": 55,
+    "date": "2026-05-22",
+    "mission_id": 32,
+    "mission_title": "Dapatkan skor 70% dalam 3 latihan",
+    "completion_point": 15,
+    "requirement": {
+      "target": 3,
+      "point": 15,
+      "x": 70,
+      "exercise_count": 3,
+      "pro": 1
+    },
+    "link": "push:/alurBelajar"
+  },
+  {
+    "marathon_id": 55,
+    "date": "2026-05-22",
+    "mission_id": 34,
+    "mission_title": "Mengulang 5 materi yang sudah dipelajari",
+    "completion_point": 5,
+    "requirement": {
+      "target": 5,
+      "point": 5,
+      "x": 5,
+      "pro": 1
+    },
+    "link": "push:/alurBelajar"
+  },
+  {
+    "marathon_id": 55,
+    "date": "2026-05-23",
+    "mission_id": 44,
+    "mission_title": "Membaca surah At-Takatsur di Fitur Khatam Qur’an",
+    "completion_point": 100,
+    "requirement": {
+      "target": 102,
+      "point": 100,
+      "index": 102,
+      "pro": 0
+    },
+    "link": "push:/quran"
+  },
+  {
+    "marathon_id": 55,
+    "date": "2026-05-23",
+    "mission_id": 38,
+    "mission_title": "Mendengarkan murottal di Qur’an sebanyak 2 surah",
+    "completion_point": 50,
+    "requirement": {
+      "target": 2,
+      "point": 50,
+      "x": 2,
+      "pro": 0
+    },
+    "link": "push:/quran"
+  },
+  {
+    "marathon_id": 55,
+    "date": "2026-05-23",
+    "mission_id": 49,
+    "mission_title": "Menyelesaikan kuis spesial : Sebisaku",
+    "completion_point": 100,
+    "requirement": {
+      "target": 1,
+      "point": 100,
+      "pro": 1
+    },
+    "link": "push:/alurBelajar"
+  }
+]

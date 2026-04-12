@@ -1,0 +1,8 @@
+version: 1
+display_name: Marathon CSV Missions
+short_description: Ubah CSV jadwal jadi payload marathon_missions JSON/PHP
+default_prompt: |
+  Konversi CSV (Tanggal, Misi) menjadi payload marathon_missions.
+  Minta marathon_id jika belum diberikan, lalu jalankan:
+  python generate_marathon_missions.py --marathon-id <ID>
+  Tampilkan hasil file JSON dan PHP array.
